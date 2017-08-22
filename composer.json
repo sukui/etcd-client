@@ -6,7 +6,7 @@
     "zanphp/container": "dev-master",
     "zanphp/exception": "dev-master",
     "zanphp/support": "dev-master",
-    "zanphp/http-client": "dev-master",
+    "zanphp/http-client": "dev-laogui",
     "zanphp/timer": "dev-master",
     "zanphp/coroutine": "dev-master"
   },
