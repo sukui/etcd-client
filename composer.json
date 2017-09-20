@@ -8,7 +8,7 @@
     "zanphp/support": "dev-master",
     "zanphp/http-client": "dev-laogui",
     "zanphp/timer": "dev-master",
-    "zanphp/coroutine": "dev-master"
+    "zanphp/coroutine": "dev-laogui"
   },
   "autoload": {
     "psr-4": {
